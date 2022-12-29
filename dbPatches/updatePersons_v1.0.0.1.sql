@@ -1,4 +1,4 @@
-use testDatabase;
+use testDatabase
 go
-ALTER TABLE Persons2 add Language VARCHAR (255) NOT NULL;
+ALTER TABLE Persons add Language VARCHAR (255) NOT NULL
 go
